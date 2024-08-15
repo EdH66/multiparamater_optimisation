@@ -1,4 +1,4 @@
-# CMAP-Analysis
+# Multiparameter optimsation pipelines for filtering connectivity score data from LINCS/Connectiviyt map
 
 * Pipelines for drug chemical properties comparisons
 * Mutiparamater optimzation pipeline lines for drug repurposing
